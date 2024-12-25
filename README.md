@@ -1,4 +1,4 @@
-# test-repository
+# My very first repo
 This is a second example
 
 This is a new edit from my localhost computer
